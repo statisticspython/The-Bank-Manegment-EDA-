@@ -1,2 +1,2 @@
 # The-Bank-Manegment-EDA-
-   The Data Science Project.
+   Data Science Project.
